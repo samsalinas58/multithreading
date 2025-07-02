@@ -1,0 +1,30 @@
+num Threads = 1
+no. of blocks = 262144 
+Blocks per Thread = 262144
+hash value = 2806494268 
+-----------------------
+num Threads = 16
+no. of blocks = 262144 
+Blocks per Thread = 16384
+hash value = 2645701377 
+-----------------------
+num Threads = 64
+no. of blocks = 262144 
+Blocks per Thread = 4096
+hash value = 2529168431 
+-----------------------
+num Threads = 256
+no. of blocks = 262144 
+Blocks per Thread = 1024
+hash value = 4127454337 
+-----------------------
+num Threads = 1024
+no. of blocks = 262144 
+Blocks per Thread = 256
+hash value = 1788594859 
+-----------------------
+num Threads = 4096
+no. of blocks = 262144 
+Blocks per Thread = 64
+hash value = 2408893439 
+-----------------------
